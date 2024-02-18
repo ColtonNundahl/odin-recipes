@@ -3,6 +3,7 @@
     margin-right: auto;
     width: 960px;
     height: 960px;
+   
 }
 
 
@@ -36,8 +37,10 @@ html {
 
 button {
     background-color: blueviolet;
-    padding:  10px;
-    margin: 5px;
+    padding:  30px 100px;
+    margin: 30px;
+    font-size: 50px;
+    text-decoration: none;
     
 }
 
@@ -61,6 +64,7 @@ a {
     text-align: center;
     font-weight: bold;
     font-size: xx-large;
+    list-style: none;
 }
 
 #bold {
